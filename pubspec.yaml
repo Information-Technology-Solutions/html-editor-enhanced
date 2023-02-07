@@ -44,7 +44,7 @@ dev_dependencies:
 flutter:
 
   assets:
-    - packages/html_editor_enhanced/assets/summernote.html
+#    - packages/html_editor_enhanced/assets/summernote.html
     - packages/html_editor_enhanced/assets/summernote-no-plugins.html
     - packages/html_editor_enhanced/assets/summernote-lite.min.css
     - packages/html_editor_enhanced/assets/summernote-lite-dark.css
